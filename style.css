@@ -1,0 +1,32 @@
+.ques1{
+    border: 4px dashed red;
+    background-color: aqua;
+}
+.ques2{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 255, 0.779);
+}
+.ques3{
+    border: 4px dashed black;
+    background-color: rgba(153, 205, 50, 0.699);
+}
+.ques4{
+    border: 4px dashed tomato;
+    background-color: yellow;
+}
+.ques5{
+    border: 4px dashed rgb(232, 13, 184);
+    background-color: rgb(17, 227, 20);
+}
+.ques6{
+    border: 4px dashed black;
+    background-color: rgba(0, 140, 255, 0.623);
+}
+.ques7{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 153, 0.537);
+}
+.ques8{
+    border: 4px dashed black;
+    background-color: rgba(255, 255, 0, 0.774);
+}
